@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 I'm *Faten Ali *, a 3rd-year Computer Science student at Cairo University.<br>
+🎓 I'm Faten Ali , a 3rd-year Computer Science student at Cairo University.<br>
 💻 Passionate about *Problem Solving, **Mobile App Development* and *Competitive Programming*.<br>
 📚 Currently learning *Flutter* and improving my *Data Structures & Algorithms* skills.<br>
 🚀 Future Flutter Developer aiming to build impactful apps.<br>
